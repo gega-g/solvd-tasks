@@ -1,3 +1,5 @@
+package first_task;
+
 public class InsertionSort {
 
     public static void sort(int[] arr) {
